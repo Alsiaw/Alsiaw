@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Alsiaw 👋</h1>
+  <h1>Hi, I'm Alsia 👋</h1>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Alsiaw&color=08235b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <strong>12,310</strong>
+  <strong></strong>
 </div>
 
 <div align="center">
@@ -116,4 +116,3 @@
 <div align="center">
   <i>⭐ From <a href="https://github.com/Alsiaw">Alsiaw</a></i>
 </div>
-
