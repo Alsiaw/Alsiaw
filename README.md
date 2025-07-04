@@ -1,118 +1,431 @@
 <div align="center">
-  <h1>Hi, I'm Alsia 👋</h1>
-</div>
 
-<div align="center">
-  <h3>Graph</h3>
-</div>
+# 🤖 Alsia Discord Bot
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alsiaw&theme=react-dark&bg_color=0d1117&color=08235b&line=08235b&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+### Professional Discord Management Bot for FiveM Servers
 
----
+[![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue.svg)](https://discord.js.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v16+-green.svg)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-green.svg)](https://www.mongodb.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/kullaniciadi/alsia-bot?style=social)](https://github.com/kullaniciadi/alsia-bot/stargazers)
 
-<div align="center">
-  <p><strong>I am a Discord Bot Developer.</strong></p>
-  <p>I like to Code, Create Discord Bots, Design User Experiences and Experiment with new features.</p>
-  <p>I am an enthusiastic developer who loves to take up new challenges and learn new technologies.</p>
-  <p>I love building innovative Discord bots and helping communities grow with custom solutions.</p>
-</div>
+**Alsia** is a comprehensive Discord management bot developed specifically for FiveM servers. With advanced moderation system, whitelist management, player statistics, and automated punishment system, it helps you manage your server professionally.
 
-<div align="center">
-  <a href="https://discord.com/users/278152550627409921">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
-  </a>
-</div>
+[🚀 Quick Start](#-quick-start) • [📋 Commands](#-command-guide) • [⚙️ Installation](#️-installation) • [📞 Support](#-support)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alsiaw&color=08235b&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <strong></strong>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Alsiaw">
-    <img src="https://img.shields.io/badge/Alsiaw-blue?style=flat-square&logo=github&logoColor=white" alt="Alsiaw" />
-  </a>
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 📑 Table of Contents
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alsiaw&theme=dark&background=0d1117&ring=08235b&fire=08235b&currStreakLabel=08235b&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## 🛠️ My Skills
-
-### 👨‍💻 Programming languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
-
-### 🌐 Frontend Development
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
-</div>
-
-### ⚡ Backend & Frameworks
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</div>
-
-### 🛠️ Software & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
+- [🌟 Features](#-features)
+- [📋 Command Guide](#-command-guide)
+- [🚀 Quick Start](#-quick-start)
+- [⚙️ Installation](#️-installation)
+- [🔧 Configuration](#-configuration)
+- [🛠️ Technical Details](#️-technical-details)
+- [📞 Support](#-support)
 
 ---
 
-## 📊 Github Stats (Expand to View)
+## 🌟 Features
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <br/>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alsiaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=08235b&icon_color=08235b&text_color=ffffff&bg_color=0d1117&border_color=08235b"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsiaw&layout=compact&langs_count=8&theme=dark&title_color=08235b&text_color=ffffff&bg_color=0d1117&border_color=08235b"/>
-  </div>
-</details>
+<table>
+<tr>
+<td width="50%">
 
-<details>
-  <summary><b>⚡ Activity Graph</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alsiaw&theme=react-dark&bg_color=0d1117&color=08235b&line=08235b&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </div>
-</details>
+### 🛡️ **Advanced Moderation**
+- Comprehensive ban/mute system
+- Warning and punishment management
+- Automatic penalty reduction
+- Evidence-based punishment system
+
+### 📋 **Whitelist Management**
+- Player approval/rejection system
+- Automatic hex verification
+- Blacklist management
+- FiveM integration
+
+</td>
+<td width="50%">
+
+### 📊 **Statistics System**
+- Detailed player and server statistics
+- Daily/weekly reports
+- Activity tracking
+- Ranking systems
+
+### 🔧 **Advanced Features**
+- Steam hex management
+- Organization system
+- Spotify integration
+- Automated logging system
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📋 Command Guide
+
+### 🛡️ Moderation Commands
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/ban` | `player` `reason` | Moderator | Bans a player from the server |
+| `/unban` | `ID` `reason` | Moderator | Unbans a player |
+| `/forceban` | `ID` `reason` | Admin | Force ban operation |
+| `/ban-sorgu` | `ID` | Moderator | Query ban information |
+| `/perma` | `player` `issuer` `reason` `evidence` | Admin | Permanent ban |
+| `/uyarı` | `player` `issuer` `reason` `evidence` | Moderator | Issue a warning |
+| `/uyarı-iptal` | `player` | Moderator | Cancel warning |
+
+### 📋 Whitelist Commands
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/wlceza` | `player` `issuer` `reason` `evidence` | Admin | Issue whitelist punishment |
+| `/wlceza-iptal` | `player` | Admin | Cancel WL punishment |
+| `/blacklist` | `ID` `hex` `reason` | Admin | Add to blacklist |
+| `/blacklist-iptal` | `hex` | Admin | Remove from blacklist |
+| `/hex-bul` | `ID` | Moderator | Find player's hex address |
+| `/hex-oyuncular` | `hex` | Moderator | List players by hex |
+
+### 👥 Role & Player Management
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/rolver` | `player` `role` | Admin | Give role to player |
+| `/rolal` | `player` `role` | Admin | Remove role from player |
+| `/rolbilgi` | `role` | Moderator | Get role information |
+| `/isim` | `player` `name` | Admin | Change player name |
+| `/isimler` | `player` | Moderator | Show player's name history |
+| `/seviye` | `player/id` | Everyone | Show player level |
+
+### 📊 Statistics & Information
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/istatistik` | `player` | Moderator | Detailed player statistics |
+| `/kayıtlar` | `ID` | Moderator | Show player records |
+| `/sicil-sorgu` | `tag-id` | Moderator | Show criminal records |
+| `/spotify` | `player/id` | Everyone | Show Spotify status |
+| `/top` | `option` | Everyone | Show ranking lists |
+| `/topkayıt` | - | Everyone | Top registration makers |
+| `/top-kayıt` | - | Everyone | Registration rankings |
+
+### 🏢 Organization Commands
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/oluşum-kur` | `name` `color` `boss` | Admin | Create new organization |
+| `/etiket-sorgu` | `#36` | Moderator | Query tag information |
+
+### 🎫 Ticket System
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/ticket-isim` | `name` | Moderator | Change ticket name |
+| `/ticket-işlem` | `option` `player` | Moderator | Ticket operations |
+| `/ticket-sil` | - | Moderator | Delete ticket |
+
+### 🔧 Server Management
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/sunucu` | `active/maintenance` | Admin | Change server status |
+| `/sunucu-veri` | - | Admin | Show server data |
+| `/ip` | - | Everyone | Server IP information |
+| `/ts3` | - | Everyone | TeamSpeak 3 information |
+
+### 🛠️ Utility Commands
+
+| Command | Parameters | Permission | Description |
+|---------|------------|------------|-------------|
+| `/sil` | `amount` | Moderator | Delete specified amount of messages |
+| `/git` | `staff` | Moderator | Teleport to staff member |
+| `/afk` | `reason` | Everyone | Enter AFK mode |
+| `/kanal` | `selection` | Admin | Channel operations |
+| `/ship` | - | Everyone | Random matching |
+| `/sd` | `player` | Everyone | Short player information |
+| `/perm-log` | `player` | Admin | Show perm history |
+| `/toplu-perm-al` | `role` | Admin | Bulk permission removal |
+| `/tweet` | `text` | Admin | Send tweet |
+
+### 🔸 Prefix Commands (.)
+
+| Command | Description |
+|---------|-------------|
+| `.snipe` | Show last deleted message |
+
+### 🔸 Context Menu Commands (Right Click)
+
+| Command | Description |
+|---------|-------------|
+| **Whitelist Approve** | Approve player for whitelist |
+| **Whitelist Reject** | Reject whitelist application |
+| **Ban Player** | Quick ban operation |
+| **Add Hex** | Add hex to player |
+| **Statistics** | Show player statistics |
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [MongoDB](https://www.mongodb.com/) database
+- Discord Bot Token
+- FiveM Server (optional)
+
+### Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/username/alsia-bot.git
+   cd alsia-bot
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Configure the Bot**
+   - Edit `config.json` file
+   - Configure `ayarlar.json` according to your server
+
+4. **Start the Bot**
+   ```bash
+   node alsia.js
+   ```
+   or
+   ```bash
+   npm start
+   ```
+
+---
+
+## ⚙️ Installation
+
+### System Requirements
+
+| Component | Requirement |
+|-----------|-------------|
+| **Node.js** | v16.0.0 or higher |
+| **NPM** | v7.0.0 or higher |
+| **MongoDB** | v4.4 or higher |
+| **Memory** | 512MB RAM minimum |
+| **Storage** | 1GB free space |
+
+### Step-by-Step Setup
+
+1. **Download the Project**
+   ```bash
+   git clone https://github.com/username/alsia-bot.git
+   cd alsia-bot
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Environment Configuration**
+   Create and configure your environment files:
+   - `config.json` - Bot token and database connection
+   - `ayarlar.json` - Server-specific settings
+
+4. **Database Setup**
+   - Install MongoDB
+   - Create a new database
+   - Update connection string in `config.json`
+
+5. **Discord Bot Setup**
+   - Create a new application on Discord Developer Portal
+   - Create a bot and copy the token
+   - Invite the bot to your server with necessary permissions
+
+6. **Start the Bot**
+   ```bash
+   node alsia.js
+   ```
+
+---
+
+## 🔧 Configuration
+
+### config.json
+```json
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "mongoDB": "YOUR_MONGODB_CONNECTION_STRING_HERE"
+}
+```
+
+### ayarlar.json
+Configure all bot settings in this file:
+
+- **Bot Settings**: Server ID, prefix, status message
+- **Permissions**: Command permissions and roles
+- **Roles**: Whitelist, staff, and other roles
+- **Log Channels**: Log channels for all operations
+- **FiveM Settings**: Server information and integration
+
+Fill in all fields in the `ayarlar.json` file for detailed configuration.
+
+### Required Permissions
+
+The bot requires the following Discord permissions:
+- `ADMINISTRATOR` (recommended)
+- `MANAGE_ROLES`
+- `MANAGE_CHANNELS`
+- `MANAGE_MESSAGES`
+- `BAN_MEMBERS`
+- `KICK_MEMBERS`
+- `VIEW_AUDIT_LOG`
+
+---
+
+## 🛠️ Technical Details
+
+### Built With
+
+| Technology | Purpose |
+|------------|---------|
+| **Discord.js v14** | Discord API integration |
+| **MongoDB/Mongoose** | Database management |
+| **Five.db** | Local data storage |
+| **Canvafy** | Image generation |
+| **Moment.js** | Date/time operations |
+| **Node-cron** | Scheduled tasks |
+
+### Project Structure
+
+```
+alsia-bot/
+├── alsia.js                 # Main bot file
+├── ayarlar.json            # Bot configuration
+├── config.json             # Token and DB settings
+├── package.json            # Project dependencies
+├── alsia/
+│   ├── eventler/           # Bot events
+│   └── komutlar/           # Command files
+│       ├── Slash/          # Slash commands
+│       ├── Prefix/         # Prefix commands
+│       └── SağTık/         # Context menu commands
+├── database/               # Database models
+└── croxydb/               # Local data files
+```
+
+### Feature Details
+
+#### Moderation System
+- Automatic penalty reduction system
+- Detailed logging
+- Evidence-based punishment system
+- Time-based penalty management
+
+#### Whitelist System
+- Automatic hex verification
+- Blacklist management
+- Player approval/rejection system
+- FiveM integration
+
+#### Statistics System
+- Message and voice statistics
+- Daily/weekly reports
+- Player activity tracking
+- Ranking lists
+
+---
+
+## 📊 API Integration
+
+### FiveM Integration
+The bot can integrate with FiveM servers to:
+- Sync player data
+- Manage server whitelist
+- Track player activity
+- Automated punishment system
+
+### Database Schema
+```javascript
+// Player Schema Example
+{
+  discordId: String,
+  steamHex: String,
+  whitelistStatus: Boolean,
+  punishments: Array,
+  statistics: Object,
+  registrationDate: Date
+}
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Development Guidelines
+
+- Follow ESLint configuration
+- Write clear commit messages
+- Test your changes thoroughly
+- Update documentation as needed
+
+---
+
+## 📞 Support
+
+If you encounter any issues or have suggestions:
+
+- **Discord**: alsiaw
+- **GitHub Issues**: [Create an issue](https://github.com/username/alsia-bot/issues)
+- **Documentation**: [Wiki](https://github.com/username/alsia-bot/wiki)
+
+### Common Issues
+
+| Issue | Solution |
+|-------|----------|
+| Bot not responding | Check token and permissions |
+| Database connection error | Verify MongoDB connection string |
+| Commands not working | Ensure proper role permissions |
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🏆 Acknowledgments
+
+- Discord.js community for excellent documentation
+- FiveM community for inspiration
+- All contributors who helped improve this project
+
+## 👨‍💻 Developer
+
+**Alsia** - *FiveM Discord Bot Developer*
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=08235b&height=100&section=footer" width="100%" />
-</div>
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/Alsiaw">Alsiaw</a></i>
+⭐ **If you like this project, please give it a star!**
+
+[![GitHub stars](https://img.shields.io/github/stars/username/alsia-bot?style=social)](https://github.com/username/alsia-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/username/alsia-bot?style=social)](https://github.com/username/alsia-bot/network)
+
 </div>
