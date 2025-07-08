@@ -61,7 +61,7 @@ Batchfile    0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### 🎮 Discord Status
+### Developer Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/278152550627409921)](https://discord.com/users/278152550627409921)
 
 <h2></h2>
