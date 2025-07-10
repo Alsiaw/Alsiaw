@@ -8,7 +8,7 @@
 
 <h2></h2>
 
-### 🌐 Connect With Me
+### 🌐 Contact With Me
 <a href="https://discord.com/users/278152550627409921" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
