@@ -12,7 +12,7 @@
 <a href="https://discord.com/users/278152550627409921" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
-<a href="https://serverchecker.online/" target="_blank">
+<a href="https://alsiaw.live" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40px">
 </a>
 
