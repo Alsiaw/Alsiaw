@@ -35,17 +35,8 @@
 
 <h2></h2>
 
-### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alsiaw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsiaw&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
 
