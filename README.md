@@ -9,7 +9,7 @@
 <h2></h2>
 
 ### 🌐 Contact With Me
-<a href="https://discord.com/users/1219137133806223410" target="_blank">
+<a href="https://discord.com/users/446062588631973888" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 <a href="https://alsiaw.live" target="_blank">
@@ -53,7 +53,7 @@ Batchfile    0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Developer Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/1219137133806223410)](https://discord.com/users/1219137133806223410)
+[![Discord Presence](https://lanyard.cnrad.dev/api/446062588631973888)](https://discord.com/users/446062588631973888)
 
 <h2></h2>
 
