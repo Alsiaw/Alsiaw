@@ -27,11 +27,7 @@
 
 <h2></h2>
 
-### 🛠️ Development Tools
-<div>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,babel" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,cloudflare" />
-</div>
+
 
 <h2></h2>
 
