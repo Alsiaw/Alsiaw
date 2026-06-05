@@ -25,14 +25,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,supabase,express,electron,nginx" />
 </div>
 
-<h2></h2>
-
-
-
-<h2></h2>
-
-
-
 
 <h2></h2>
 
